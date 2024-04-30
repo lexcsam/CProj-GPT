@@ -1,15 +1,4 @@
----
-tags:
-- autotrain
-- text-generation
-widget:
-- text: "I love AutoTrain because "
-license: other
----
 
-# Model Trained Using AutoTrain
-
-This model was trained using AutoTrain. For more information, please visit [AutoTrain](https://hf.co/docs/autotrain).
 
 # Usage
 
